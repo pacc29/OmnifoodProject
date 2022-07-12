@@ -57,6 +57,8 @@ html {
   /* Percentage of user's browser font-szie setting */
   font-size: 62.5%;
   overflow-x: hidden;
+
+  scroll-behavior: smooth;
 }
 
 body {
